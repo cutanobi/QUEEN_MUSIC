@@ -11,11 +11,11 @@ from pathlib import Path
 from pyrogram.enums import ParseMode
 
 photo = [
-    "https://telegra.ph/file/1949480f01355b4e87d26.jpg",
-    "https://telegra.ph/file/3ef2cc0ad2bc548bafb30.jpg",
-    "https://telegra.ph/file/a7d663cd2de689b811729.jpg",
-    "https://telegra.ph/file/6f19dc23847f5b005e922.jpg",
-    "https://telegra.ph/file/2973150dd62fd27a3a6ba.jpg",
+    "https://graph.org/file/a479ef4f1ba909538f7b2.jpg",
+    "https://graph.org/file/8f6f79219200c52979e92.jpg",
+    "https://graph.org/file/84b92429ba169cbb837a9.jpg",
+    "https://graph.org/file/1286345018227a91c5f7b.jpg",
+    "https://graph.org/file/74350033a7caed10dfb79.jpg",
 ]
 
 @app.on_message(filters.new_chat_members, group=2)
